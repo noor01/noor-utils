@@ -13,7 +13,7 @@ setup(
         'tifffile',
         'scikit-image',
         'scikit-learn',
-        'Pillow',  # PIL is now Pillow
+        'Pillow', 
     ],
     python_requires='>3.9',
     author='Noorsher Ahmed',
